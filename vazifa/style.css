@@ -1,0 +1,49 @@
+.tana {
+  margin-top: 60px;
+  margin-left: 100px;
+  margin-right: 80px;
+}
+
+.block {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.block2 {
+  text-align: left;
+}
+.icon1 {
+  width: 35px;
+}
+.block3 {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  gap: 30px;
+}
+.block4 {
+  width: 500px;
+}
+.block5 {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.block6 {
+  width: 300px;
+  border: 0.5px solid grey;
+  padding-inline: 8px;
+  padding-top: 5px;
+  border-radius: 25px;
+}
+
+.comment {
+  border: 1px solid rgba(103, 195, 243, 5);
+  background-color: rgba(103, 25, 263, 1);
+  border-radius: 14px;
+}
+.comment_title {
+  color: white;
+  text-align: center;
+  font-size: 25px;
+}
